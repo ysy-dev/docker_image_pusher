@@ -3,5 +3,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 mysql:8.0.37
 jenkins/jenkins:2.414.2
-#支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
