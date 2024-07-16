@@ -1,7 +1,9 @@
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 mysql:8.0.37
 jenkins/jenkins:2.414.2
 minio/minio
---platform=linux/arm64 xiaoyaliu/alist
+minio/mc
+nacos/nacos-server
+redis
+elasticsearch:7.3.1
+xuxueli/xxl-job-admin:2.4.0
