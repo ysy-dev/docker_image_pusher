@@ -1,1 +1,1 @@
-irvingqiu0823/jdk1.8
+nginx:1.18.0
