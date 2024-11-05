@@ -1,1 +1,1 @@
-zabbix/zabbix-agent:alpine-6.2-latest
+ingress-nginx-controller:v0.46.0
