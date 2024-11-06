@@ -1,1 +1,1 @@
-mysql:9.1.0
+chainguard/ingress-nginx-controller:latest
