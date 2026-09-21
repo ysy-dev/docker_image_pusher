@@ -1,1 +1,2 @@
-opensecurity/mobile-security-framework-mobsf:latest
+wechatopenai/weknora-app:latest
+wechatopenai/weknora-docreader:latest
