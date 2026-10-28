@@ -1,2 +1,3 @@
 wechatopenai/weknora-app:latest
 wechatopenai/weknora-docreader:latest
+embeddedanalyzer/emba:latest
